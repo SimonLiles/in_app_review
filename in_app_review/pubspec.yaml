@@ -17,7 +17,7 @@ dependencies:
     git:
       url: https://github.com/SimonLiles/in_app_review.git
       path: in_app_review_platform_interface
-      ref: main
+      ref: master
   
 dev_dependencies:
   flutter_test:
